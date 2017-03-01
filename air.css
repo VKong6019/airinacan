@@ -1,0 +1,92 @@
+#top{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    background-color:lightblue;
+    overflow:hidden;
+    height:40px;
+    font-family:tahoma;
+}
+
+#slogan{
+    position:absolute;
+    right:80%;
+    font-size: 30px;
+    color:black;
+}
+
+#left {
+    position:absolute;
+    right:65%;
+    font-size:125%;
+    padding-top:5px;
+}
+#middle {
+    position:absolute;
+    right:38%;
+    font-size:125%;
+    padding-top:5px;
+}
+#right {
+    position: absolute;
+    right:10%;
+    font-size:125%;
+    padding-top:5px;
+}
+
+
+#bottom {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    background:#E4F1FE;
+    overflow:hidden;
+    height: 50px;
+    font-family: calibri;
+}
+
+#down{
+    height: -3em;
+    position: relative;
+    right: 0;
+    bottom:0;
+    left: 0;
+    margin-top:30em;
+}
+
+#main {
+    font-family: calibri;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#can {
+    font-family: calibri;
+    font-size: 25px;
+}
+
+#image{
+    padding-right: 50px;
+}
+#prague {
+    height:400px;
+}
+#smile {
+    width: 500px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+#second {
+    font-family: calibri;
+    font-size: 25px;
+    color: red;
+}
+#tokyo {
+    position: absolute;
+    left: 400px;
+    bottom: 0px;
+    top:620px;
+    height: 400px;
+}
+}
