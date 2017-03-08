@@ -84,9 +84,53 @@
 }
 #tokyo {
     position: absolute;
-    left: 400px;
+    left: 450px;
     bottom: 0px;
     top:620px;
     height: 400px;
 }
+#london{
+    height:330px;
+    position:absolute;
+    left:850px;
+    bottom:0px;
+    top:700px;
+}
+#reviews {
+    list-style-type:none;
+    font-weight:bold;
+    font-size: 180%;
+    font-style: italic;
+    color:grey;
+}
+#heading {
+    color:gold;
+    font-size: 200%;
+    text-decoration: underline;
+    font-style: normal;
+    
+}
+#mentions{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    font-family:tahoma;
+}
+
+#head{
+    font-size:150%;
+    text-decoration: underline;
+}
+#forbes{
+    position:absolute;
+    right:65%;
+    font-size:125%;
+    padding-top:5px;
+}
+#pc{
+    position: absolute;
+    left:65%;
+    font-size:125%;
+    padding-top: 5px;
 }
