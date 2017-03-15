@@ -96,6 +96,7 @@
     bottom:0px;
     top:700px;
 }
+
 #reviews {
     list-style-type:none;
     font-weight:bold;
@@ -105,15 +106,26 @@
 }
 #heading {
     color:gold;
-    font-size: 200%;
+    font-size: 150%;
     text-decoration: underline;
     font-style: normal;
-    
+    padding:30px;
 }
+
+#lost{
+    padding:10px;
+}
+#child{
+    padding:10px;
+}
+#smart{
+    padding:15px;
+}
+
 #mentions{
     list-style-type: none;
     margin:0;
-    padding:0;
+    padding:70px;
     overflow:hidden;
     font-family:tahoma;
 }
@@ -121,6 +133,14 @@
 #head{
     font-size:150%;
     text-decoration: underline;
+    color: green;
+    font-weight:bold;
+}
+#mcdonalds{
+    position:absolute;
+    font-size: 125%;
+    padding-top:60px;
+    right: 25%;
 }
 #forbes{
     position:absolute;
